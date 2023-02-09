@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.mystery{
+    border: solid 1px;
+    padding: 20px;
+    margin-top: 50px;  
+}
+
+.otvet1{
+    display: none;
+}
+
+.otvet2{
+    display: none;
+}
+
+.otvet3{
+    display: none;
+}
+
+.otvet4{
+    display: none;
+}
+
+.otvet5{
+    display: none;
+}
+
+.otvet6{
+    display: none;
+}
